@@ -51,7 +51,7 @@ docker exec -it levart-php php src/database/migration.php
 ```
 
 ## Run program
-To running this program please refer to postman collection, the default url `http://localhost:8000/api`, to access mailpit using browser go to this url `http://localhost:8025`, to access database from database gui manager use this credential username 'levart_code_challenge' password `levart` host `localhost` port `5432`
+To running this program please refer to postman collection, the default url `http://localhost:8000/api`, to access mailpit using browser go to this url `http://localhost:8025`, to access database from database gui manager use this credential username `levart_code_challenge` password `levart` host `localhost` port `5432`
 
 ## Run job worker
 ```bash
