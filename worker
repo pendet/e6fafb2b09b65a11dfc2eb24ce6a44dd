@@ -1,0 +1,7 @@
+<?php
+
+require_once 'src/Job.php';
+
+use App\Job;
+
+Job::start();
